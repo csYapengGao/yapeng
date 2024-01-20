@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yapeng Gao (高亚鹏) / Intelligent Robot Lab of Taiyuan University of Technology"
+title                    : "Intelligent Robot Lab of Taiyuan University of Technology"
 title_separator          : "-"
 name                     : &name "Yapeng"
 description              : &description "Robotics, Deep Reinforcement Learning"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yapeng(亚鹏)"
+  name             : "Yapeng Gao(高亚鹏)"
   avatar           : "profile.png"
   bio              : "Robotics, Deep Reinforcement Learning"
   location         : "Taiyuan, Shanxi, China"
