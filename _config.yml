@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Intelligent Robot Lab of Taiyuan University of Technology"
+title                    : "About Me" #"Intelligent Robot Lab of Taiyuan University of Technology"
 title_separator          : "-"
 name                     : &name "Yapeng Gao"
 description              : &description "Robotics, Deep Reinforcement Learning"
