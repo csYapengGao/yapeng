@@ -83,8 +83,8 @@ author:
   name             : "Yapeng Gao(高亚鹏)"
   avatar           : "profile.jpg"
   bio              : "Robotics, Deep Reinforcement Learning"
-  location         : "Taiyuan, Shanxi, China"
-  employer         : "Taiyuan University of Technology"
+  location         : "Taiyuan University of Technology"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=BOgG0WAAAAAJ&hl=en"
   email            : "gaoyapeng@tyut.edu.cn"
@@ -176,16 +176,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
